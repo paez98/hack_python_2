@@ -5,7 +5,7 @@ generic script
 [0] => type int
 
 text: ["a","b","c","d","e"] output => ["1",2,"3",4,"5"]
-text: [] output => [0] 
+text: [0] output => [0] 
 """
 # No se si fue un error o fue intencional para ver si lograbamos resolver
 # ya veo porque es el 80% del tiempo leyendo codigo 
