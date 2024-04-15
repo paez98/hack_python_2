@@ -11,7 +11,3 @@ text = [{"a":"b"},{"c":"d"},{"e":"f"}]
 fn_hack_10([{"a":"b"},{"c":"d"},{"e":"f"}])
 
 
-# def fn_hack_10(s):
-#     result = s
-#     #...
-#     return result
